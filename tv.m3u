@@ -2,9 +2,9 @@
 #EXTINF:9001 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:9002 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
-https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
 #EXTINF:9003 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
-https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
 #EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
@@ -47,6 +47,12 @@ https://eu1.servers10.com:8081/8382/index.m3u8
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS WORLD
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",SIERRA CHANNEL
+https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",NETMAX
+https://live.netmaxtv.com:1936/live/live/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",PLUS TV
+https://stream.ioniantv.gr/ionian/live2/playlist.m3u8
 #EXTINF:9008 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:9010 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
@@ -244,7 +250,7 @@ https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",GRD CHANNEL
 https://eu1.streams.gr:8081/grdchannel/index.m3u8
 #EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS 
-https://pro.free.hr:3887/live/pronewslive.m3u8
+https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
 #EXTINF:5760 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
 https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
 #EXTINF:5350 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",TOP CHANNEL BUP
@@ -285,3 +291,7 @@ https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/p
 http://127.0.0.1:88/https://www.twitch.tv/alithiavideo
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY 
 https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",PONTOS WEB TV 
+https://eu1.streams.gr:8081/pontoswebtv/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",ATHENS GEO TV
+https://pro.free.hr:3236/stream/play.m3u8
