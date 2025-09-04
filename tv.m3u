@@ -263,8 +263,6 @@ https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:9006 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
-#EXTINF:9005 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
-https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",EXTACY TV KIDS
 https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
