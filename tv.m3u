@@ -162,7 +162,7 @@ https://rtmp.win:3650/live/diontvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KOS TV
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 group-title="WEB TV"tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
-https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
+https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",HLEKTRA TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
