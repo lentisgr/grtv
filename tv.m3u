@@ -35,16 +35,18 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 http://ssh101.bozztv.com:80/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",LAMPSI TV
 https://pro.free.hr:3343/live/l1llive.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV
 https://eu1.servers10.com:8081/8380/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV CYPRUS
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV CYPRUS
 https://eu1.servers10.com:8081/8388/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV CINEMA
 https://eu1.servers10.com:8081/8384/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV SERIES
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV SERIES
 https://eu1.servers10.com:8081/8386/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV GREEKZ
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV GREEKZ
 https://eu1.servers10.com:8081/8382/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",EXTACY TV KIDS
+https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS WORLD
@@ -263,8 +265,6 @@ https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:9006 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",EXTACY TV KIDS
-https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
 http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EVRIPOS TV
