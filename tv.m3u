@@ -6,7 +6,7 @@ https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
 #EXTINF:9003 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
 #EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
-https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ertnews/hls8test/index.m3u8
 #EXTINF:9005 group-title="ΠΑΙΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/ch/ertkids.webp",ERT Kids
 https://cdn3.smart-tv-data.com/vid/kidstv-hbbtv/manifest.mpd
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
