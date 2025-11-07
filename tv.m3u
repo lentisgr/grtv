@@ -38,15 +38,15 @@ http://ssh101.bozztv.com:80/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",LAMPSI TV
 https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV
-https://live20.bozztv.com/giatv/giatv-extacytv/extacytv/playlist.m3u8
+https://eu1.servers10.com:8081/8238/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV CYPRUS
 https://eu1.servers10.com:8081/8388/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV CINEMA
-https://live20.bozztv.com/giatv/giatv-extacytvcinema/extacytvcinema/playlist.m3u8
+https://eu1.servers10.com:8081/8244/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV SERIES
-https://live20.bozztv.com/akamaissh101/ssh101/extacytvseries/playlist.m3u8
+https://eu1.servers10.com:8081/8284/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",EXTACY TV GREEKZ
-https://live20.bozztv.com/giatv/giatv-extacytvgreeks/extacytvgreeks/playlist.m3u8
+https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",EXTACY TV KIDS
 https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
@@ -56,7 +56,7 @@ https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",SIERRA CHANNEL
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",NETMAX
-https://s1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",PLUS TV
 https://stream.ioniantv.gr/ionian/live2/playlist.m3u8
 #EXTINF:9008 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
@@ -96,7 +96,7 @@ http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:3034 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGOXkWvIQYtFCnfP-7CUWxREnM2S7yvTwWJ011XqoCSA=s160-c-k-c0x00ffffff-no-rj",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:3068 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
-https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+https://cdn5.smart-tv-data.com/local/alert/manifest.mpd
 #EXTINF:3012 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/Lj3W875.png",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
@@ -215,6 +215,10 @@ https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
+https://ertflix-greece.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ERT SPORTS 4
+https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
 http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
@@ -292,6 +296,6 @@ http://127.0.0.1:88/https://www.twitch.tv/alithiavideo
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",ALFA SPORTS CY 
 https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",PONTOS WEB TV 
-https://eu1.streams.gr:8081/pontoswebtv/index.m3u8
+https://fr.crystalweb.net:1936/pontostv/pontostv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",ATHENS GEO TV
 https://pro.free.hr:3236/stream/play.m3u8
