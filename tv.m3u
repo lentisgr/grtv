@@ -76,7 +76,7 @@ https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:2225 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:2221 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV CY
-http://verginanews.gr:8080/hls_live/stream2.m3u8
+https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
