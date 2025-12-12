@@ -60,7 +60,7 @@ https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",PLUS TV
 https://stream.ioniantv.gr/ionian/live2/playlist.m3u8
 #EXTINF:9008 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
-https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
+https://ertflix-ertworld.siliconweb.com/cmaf/618618_3479286/index.mpd
 #EXTINF:9010 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:9009 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
