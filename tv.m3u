@@ -212,13 +212,13 @@ https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",Aegean TV
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:9007 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
-https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
+https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports3" tvg-logo="https://i.imgur.com/IGqJDwD.png",ERT SPORTS 3
 https://ertflix-greece.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports4" tvg-logo="https://i.imgur.com/AyobOnw.png",ERT SPORTS 4
-https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.m3u8
+https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
 http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
