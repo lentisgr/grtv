@@ -83,7 +83,7 @@ https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:2225 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:2221 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV CY
+#EXTINF:2221 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
@@ -111,8 +111,6 @@ https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""https://i.imgur.com/6zvoHaL.png",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:4240 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
-http://verginanews.gr:8080/hls_live/stream1.m3u8
 #EXTINF:5925 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
 https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
 #EXTINF:7110 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV
@@ -224,7 +222,7 @@ https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="",ERT SPORTS 3
-https://ertflix-greece.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
+https://ertsports3-gc.siliconweb.com/cmaf/618618_3479298/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="",ERT SPORTS 4
 https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
