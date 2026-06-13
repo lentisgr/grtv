@@ -7,6 +7,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/drm/index.mpd
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/drm/index.mpd
 #EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
+#EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:9005 group-title="ΠΑΙΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/ch/ertkids.webp",ERT Kids
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
