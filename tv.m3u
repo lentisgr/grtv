@@ -7,7 +7,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/drm/index.mpd
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/drm/index.mpd
 #EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
-#EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/vQjVSF5.png",ERT Cosmos
+#EXTINF:9004 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/vQjVSF5.png",ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:9005 group-title="ΠΑΙΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://raw.githubusercontent.com/nickstamp93/GymWorkoutMate/i/app/src/main/assets/img/ch/ertkids.webp",ERT Kids
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8
@@ -69,8 +69,6 @@ https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",PLUS TV
 https://stream.ioniantv.gr/ionian/live2/playlist.m3u8
-#EXTINF:9008 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:9010 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.youtube.com/live/uWIhV9gQClg
 #EXTINF:9009 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
