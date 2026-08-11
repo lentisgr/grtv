@@ -78,7 +78,7 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:2227 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA
-https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:2228 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:2225 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
