@@ -41,8 +41,6 @@ http://ssh101.bozztv.com:80/ssh101/galaxygr/playlist.m3u8
 https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EUROPE ONE
 https://eu1.servers10.com:8081/8226/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ΖΕΥΣ TV
-https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS WORLD
